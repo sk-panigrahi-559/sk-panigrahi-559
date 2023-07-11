@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Suraj Kumar Panigrahi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Science student and amateur coder from IISER berhampur</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk-panigrahi-559" alt="sk-panigrahi-559" /></a> </p>
 
