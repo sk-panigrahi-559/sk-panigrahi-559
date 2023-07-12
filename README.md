@@ -1,10 +1,10 @@
-
+<h1>Suraj K. Panigrahi</h1>
 <img src="https://i.pinimg.com/originals/ec/29/67/ec2967eebf71e31cd1cb47e3252e36cd.gif">
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Suraj Kumar Panigrahi and I'm a BSMS Physical Sciences major student, from Indian Institute of Science Education and Research, Berhampur.</p>
+<p align="left">My name is Suraj Kumar Panigrahi and I'm a BSMS Physical Sciences major student, from Indian Institute of Science Education and Research (IISER), Berhampur.</p>
 
 ###
 
@@ -12,7 +12,11 @@
 
 ###
 
-<p align="left">✨ First language was HTML.<br>📚 I'm currently learning Pandas, Numpy, Scikit Learn, Tensorflow, PyGame.<br>🎯 Goals: Wander around and do nothing.<br>🎲 Fun fact: I can play the guitar.</p>
+<p align="left">
+  ✨ First language was HTML,TBH I've forgotten most of it.<br>
+  📚 I'm currently learning Pandas, Numpy, Scikit Learn, Tensorflow and Pytorch for Machine Learning; and PyGame for fun.<br>
+  🎯 Goals: Wander around and do nothing.<br>🎲 Fun fact: I can play the guitar.
+</p>
 
 ###
 
@@ -20,7 +24,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
