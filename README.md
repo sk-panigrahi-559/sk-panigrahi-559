@@ -112,4 +112,6 @@
 </table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sk-panigrahi-559&icon=6&color=6)](https://visitcount.itsvg.in)
+[![Visits Badge](https://badges.pufler.dev/visits/sk-panigrahi-559/sk-panigrahi-559)](https://badges.pufler.dev)
+<!--![Visitor Count](https://profile-counter.glitch.me/{sk-panigrahi-559}/count.svg)-->
+
