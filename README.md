@@ -112,6 +112,3 @@
 </table>
 
 ---
-[![Visits Badge](https://badges.pufler.dev/visits/sk-panigrahi-559/sk-panigrahi-559)](https://badges.pufler.dev)
-<!--![Visitor Count](https://profile-counter.glitch.me/{sk-panigrahi-559}/count.svg)-->
-
