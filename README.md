@@ -1,25 +1,17 @@
-<h1>Suraj K. Panigrahi</h1>
+<h1><strong><i>Suraj K. Panigrahi</i></strong></h1>
 <img src="https://i.pinimg.com/originals/ec/29/67/ec2967eebf71e31cd1cb47e3252e36cd.gif">
 <h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
+<h2 align="left">About me</h2>
 <p align="left">My name is Suraj Kumar Panigrahi and I'm a BSMS Physical Sciences major student, from Indian Institute of Science Education and Research (IISER), Berhampur.</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">
-  ✨ First language was HTML,TBH I've forgotten most of it.<br>
+  ✨ The first language I ever learned was HTML; TBH I've forgotten most of it.<br>
   📚 I'm currently learning Pandas, Numpy, Scikit Learn, Tensorflow and Pytorch for Machine Learning; and PyGame for fun.<br>
   🎯 Goals: Wander around and do nothing.<br>🎲 Fun fact: I can play the guitar.
 </p>
 
 ###
-
+---
 <h2 align="left">💻My Skills : Programming Languages, Libraries, Tools and Softwares</h2>
 
 ###
@@ -85,33 +77,39 @@
 </div>
 -->
 # 
+---
 <h2 align="left">📊 GitHub Stats:</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=sk-panigrahi-559&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sk-panigrahi-559&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-panigrahi-559&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ###
-
+---
 <h2 align='left'>🏆 GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=sk-panigrahi-559&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+## 
+---
+<h2 align='center'><i>Social Media Handles</i></h2>
+<table width="100" align='center'>
+<tr>
+    <td align='center' width="60">
+        <a href="https://twitter.com/sku_panigrahi"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.instagram.com/s.k.panigrahi_/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.linkedin.com/in/suraj-kumar-panigrahi-409174224/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.reddit.com/user/Positive_Sense8671"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409938.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://join.skype.com/invite/wpSt31bQMz68"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409949.png" width="60"></a>
+    </td>
+</tr>
+</table>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sk-panigrahi-559&icon=6&color=6)](https://visitcount.itsvg.in)
-
-###
-<!--
-<div align="left">
-  <a href="https://www.linkedin.com/in/suraj-kumar-panigrahi-409174224/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/sku_panigrahi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/s.k.panigrahi_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
--->
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.k.panigrahi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-kumar-panigrahi-409174224) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/%E0%AC%B8%E0%AD%82%E0%AC%B0%E0%AC%9C-%E0%AC%95%E0%AD%81%E0%AC%AE%E0%AC%BE%E0%AC%B0) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Positive_Sense8671) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sku_panigrahi) 
