@@ -1,4 +1,6 @@
-<h1><img src="https://github.com/sk-panigrahi-559/sk-panigrahi-559/assets/108508683/7e2e6092-fc4f-4a04-96f0-e4dd6c86392b" width="40" height="40"><strong><i>Suraj K. Panigrahi</i></strong></h1>
+<h1><img src="https://github.com/sk-panigrahi-559/sk-panigrahi-559/assets/108508683/7e2e6092-fc4f-4a04-96f0-e4dd6c86392b" width="40" height="40"><strong><i> 
+  Suraj K. Panigrahi</i></strong></h1>
+
 <img src="https://i.pinimg.com/originals/ec/29/67/ec2967eebf71e31cd1cb47e3252e36cd.gif">
 <h1 align="left">Hey 👋 What's up?</h1>
 <h2 align="left">About me</h2>
@@ -47,6 +49,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
+  <img src="https://github.com/sk-panigrahi-559/sk-panigrahi-559/assets/108508683/27641e10-861f-4922-bf6a-d34a2b73b64d" height="50" alt="scikit-learn logo">
+  <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
