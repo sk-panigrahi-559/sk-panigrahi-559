@@ -9,7 +9,13 @@
 <p align="left">
   ✨ The first language I ever learned was HTML; TBH I've forgotten most of it.<br>
   📚 I'm currently learning Pandas, Numpy, Scikit Learn, Tensorflow and Pytorch for Machine Learning; and PyGame for fun.<br>
-  🎯 Goals: Wander around and do nothing.<br>🎲 Fun fact: I can play the guitar.
+  🎯 Goals: Wander around and do nothing.<br>
+  📫 How to reach me: surajkumarpanigrahi4@gmail.com <br>
+  🗒️ But remember : Winter is Comming<br>
+  🎲 Fun fact: I can play the guitar.<br><br>
+  🤔💡 Thought of the day:
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
 </p>
 
 ###
@@ -68,6 +74,9 @@
   <img src="https://cdn.simpleicons.org/gimp/5C5543" height="40" alt="gimp logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="40" alt="godot logo"  />
+  <img widht="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"/>
+          
 </div>
 
 ###
@@ -87,6 +96,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=sk-panigrahi-559&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sk-panigrahi-559&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-panigrahi-559&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<!--img src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-panigrahi-559&theme=dark"/-->
 ###
 ---
 <h2 align='left'>🏆 GitHub Trophies</h2>
