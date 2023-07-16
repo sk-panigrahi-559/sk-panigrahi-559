@@ -13,11 +13,17 @@
   📫 How to reach me: surajkumarpanigrahi4@gmail.com <br>
   🗒️ But remember : Winter is Comming<br>
   🎲 Fun fact: I can play the guitar.<br><br>
-  
+  <p align="center">
+    
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=sk-panigrahi-559&theme=dark&hide_border=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-panigrahi-559&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+  </p>
 </p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sk-panigrahi-559&height=350&hide_title=true&bg_color=transparent&color=fff&area=false&area_color=f00&radius=16"></p>
-###
+
 ---
+
 <h2 align="center">💻My Skills : Programming Languages, Libraries, Tools and Softwares</h2>
 
 ###
@@ -77,31 +83,42 @@
           
 </div>
 
-###
-
-
-###
 <!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sk-panigrahi-559&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-panigrahi-559&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 -->
-# 
+
 ---
-<h2 align="center">📊 GitHub Stats:</h2>
+<!--h2 align="center">📊 GitHub Stats:</h2>
+<!--table width="100" align='center'>
+  <td align='center' width="60">
+    
+    ![](https://github-readme-stats.vercel.app/api?username=sk-panigrahi-559&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+  
+  </td>
+</table>
 
-![](https://github-readme-stats.vercel.app/api?username=sk-panigrahi-559&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sk-panigrahi-559&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-panigrahi-559&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sk-panigrahi-559&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-panigrahi-559&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!--img src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-panigrahi-559&theme=dark"/-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-panigrahi-559&theme=dark"/>
 ###
----
-<h2 align='left'>🏆 GitHub Trophies</h2>
+--->
+<h2 align='center'>🏆 GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=sk-panigrahi-559&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-## 
+
+---
+<p align="center">
+🤔💡 Thought of the day:
+
+  #
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  </p>
+  
 ---
 <h2 align='center'><i>Social Media Handles</i></h2>
 <table width="100" align='center'>
@@ -124,10 +141,6 @@
 </tr>
 </table>
 
----
-<p align="center">
-🤔💡 Thought of the day:
-  
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
-  </p>
+
+
 ---
