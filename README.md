@@ -1,9 +1,9 @@
-<h1><img src="https://github.com/sk-panigrahi-559/sk-panigrahi-559/assets/108508683/7e2e6092-fc4f-4a04-96f0-e4dd6c86392b" width="40" height="40"><strong><i> 
+<h1 align="center"><img src="https://github.com/sk-panigrahi-559/sk-panigrahi-559/assets/108508683/7e2e6092-fc4f-4a04-96f0-e4dd6c86392b" width="40" height="40"><strong><i> 
   Suraj K. Panigrahi</i></strong></h1>
 
-<img src="https://i.pinimg.com/originals/ec/29/67/ec2967eebf71e31cd1cb47e3252e36cd.gif">
+<p align="center"><img src="https://i.pinimg.com/originals/ec/29/67/ec2967eebf71e31cd1cb47e3252e36cd.gif"></p>
 <h1 align="left">Hey 👋 What's up?</h1>
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 <p align="left">My name is Suraj Kumar Panigrahi and I'm a BSMS Physical Sciences major student, from Indian Institute of Science Education and Research (IISER), Berhampur.</p>
 
 <p align="left">
@@ -13,14 +13,12 @@
   📫 How to reach me: surajkumarpanigrahi4@gmail.com <br>
   🗒️ But remember : Winter is Comming<br>
   🎲 Fun fact: I can play the guitar.<br><br>
-  🤔💡 Thought of the day:
   
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
 </p>
-
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sk-panigrahi-559&height=350&hide_title=true&bg_color=transparent&color=fff&area=false&area_color=f00&radius=16"></p>
 ###
 ---
-<h2 align="left">💻My Skills : Programming Languages, Libraries, Tools and Softwares</h2>
+<h2 align="center">💻My Skills : Programming Languages, Libraries, Tools and Softwares</h2>
 
 ###
 
@@ -91,7 +89,7 @@
 -->
 # 
 ---
-<h2 align="left">📊 GitHub Stats:</h2>
+<h2 align="center">📊 GitHub Stats:</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=sk-panigrahi-559&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sk-panigrahi-559&theme=dark&hide_border=true)<br/>
@@ -126,4 +124,10 @@
 </tr>
 </table>
 
+---
+<p align="center">
+🤔💡 Thought of the day:
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  </p>
 ---
