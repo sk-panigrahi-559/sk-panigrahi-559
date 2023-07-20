@@ -16,8 +16,9 @@
   <p align="center">
     
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sk-panigrahi-559&theme=dark&hide_border=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-panigrahi-559&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+  <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-panigrahi-559&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)-->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-panigrahi-559&theme=dark&layout=donut&langs_count=8&hide_border=true)
+  
   </p>
 </p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sk-panigrahi-559&height=350&hide_title=true&bg_color=transparent&color=fff&area=false&area_color=f00&radius=16"></p>
