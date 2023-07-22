@@ -1,7 +1,7 @@
-<h1 align="center"><img src="https://github.com/sk-panigrahi-559/sk-panigrahi-559/assets/108508683/7e2e6092-fc4f-4a04-96f0-e4dd6c86392b" width="40" height="40"><strong><i> 
-  Suraj K. Panigrahi</i></strong></h1>
+![wppr](https://github.com/sk-panigrahi-559/sk-panigrahi-559/assets/108508683/62237fb4-2bed-4e83-ad95-d4acdb1bec84)
 
-<p align="center"><img src="https://i.pinimg.com/originals/ec/29/67/ec2967eebf71e31cd1cb47e3252e36cd.gif"></p>
+<h1 align="center"><img src="https://github.com/sk-panigrahi-559/sk-panigrahi-559/assets/108508683/7e2e6092-fc4f-4a04-96f0-e4dd6c86392b" width="40" height="40"><strong><i> Suraj K. Panigrahi</i></strong></h1>
+<!--p align="center"><img src="https://i.pinimg.com/originals/ec/29/67/ec2967eebf71e31cd1cb47e3252e36cd.gif"></p-->
 <h1 align="left">Hey 👋 What's up?</h1>
 <h2 align="center">About me</h2>
 <p align="left">My name is Suraj Kumar Panigrahi and I'm a BSMS Physical Sciences major student, from Indian Institute of Science Education and Research (IISER), Berhampur.</p>
@@ -108,8 +108,8 @@
 ###
 --->
 <h2 align='center'>🏆 GitHub Trophies</h2>
-
-![](https://github-profile-trophy.vercel.app/?username=sk-panigrahi-559&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+  
+![](https://github-profile-trophy.vercel.app/?username=sk-panigrahi-559&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 ---
 <p align="center">
