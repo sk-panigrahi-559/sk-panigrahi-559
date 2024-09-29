@@ -1,12 +1,10 @@
-![wppr](https://github.com/sk-panigrahi-559/sk-panigrahi-559/assets/108508683/62237fb4-2bed-4e83-ad95-d4acdb1bec84)
-
 <h1 align="center"><strong><i> Suraj K. Panigrahi</i></strong></h1>
 <!--p align="center"><img src="https://i.pinimg.com/originals/ec/29/67/ec2967eebf71e31cd1cb47e3252e36cd.gif"></p-->
 <h1 align="left">Hey 👋 What's up?</h1>
 <h2 align="center">About me</h2>
 <p align="left">My name is Suraj Kumar Panigrahi and I'm a BSMS Physical Sciences major student, from Indian Institute of Science Education and Research (IISER), Berhampur.</p>
 
-<p align="left">
+<!--<p align="left">
   ✨ The first language I ever learned was HTML; TBH I've forgotten most of it.<br>
   📚 I'm currently learning Pandas, Numpy, Scikit Learn, Tensorflow and Pytorch for Machine Learning; and PyGame for fun.<br>
   🎯 Goals: Wander around and do nothing.<br>
@@ -16,11 +14,11 @@
   <p align="center">
     
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sk-panigrahi-559&theme=dark&hide_border=true)
-  <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-panigrahi-559&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)-->
+  <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-panigrahi-559&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-panigrahi-559&theme=dark&layout=donut&langs_count=8&hide_border=true)
   
   </p>
-</p>
+</p> -->
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sk-panigrahi-559&height=350&hide_title=true&bg_color=transparent&color=fff&area=false&area_color=f00&radius=16"></p>
 
 ---
@@ -44,8 +42,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -68,11 +64,12 @@
   -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
   <img width="12" />
- 
+ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
           
@@ -100,21 +97,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-panigrahi-559&theme=dark"/>
 ###
---->
+---
 <h2 align='center'>🏆 GitHub Trophies</h2>
   
 ![](https://github-profile-trophy.vercel.app/?username=sk-panigrahi-559&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1)
-
----
-<p align="center">
-🤔💡 Thought of the day:
-
-  #
-  
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
-  </p>
-  
----
+ 
+--->
 <h2 align='center'><i>Social Media Handles</i></h2>
 <table width="100" align='center'>
 <tr>
@@ -126,9 +114,6 @@
     </td>
     <td align='center' width="60">
         <a href="https://www.linkedin.com/in/suraj-kumar-panigrahi-409174224/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.reddit.com/user/Positive_Sense8671"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409938.png" width="60"></a>
     </td>
     <td align='center' width="60">
         <a href="https://join.skype.com/invite/wpSt31bQMz68"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409949.png" width="60"></a>
